@@ -1,4 +1,5 @@
 $(function() {
+  // TODO Art to add input here to allow user to provide list of letters and words to use
   var $card = $('#card')
     , $body = $('body')
     , morphCard = function(fn) {
