@@ -1,0 +1,18 @@
+body {
+  background-color: #000;
+}
+
+p#card {
+  font-size: 24px;
+  padding: 0;
+  margin: 0;
+  color: #000;
+  display: inline-block;
+  position: absolute;
+
+  -moz-transform: scale(-1, 1);
+  -webkit-transform: scale(-1, 1);
+  -o-trasform: scale(-1, 1);
+  -ms-transform: scale(-1, 1);
+  transform: scale(-1, 1);
+}
